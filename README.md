@@ -3,6 +3,13 @@
 These are some projects I’ve worked on over the last few years.
 
 ## Games
+
+- **GWJ79 - The Shepherd's Stand** (2025) - [Itch.io](https://dimble.itch.io/gwj-79)
+    - Grow your sheep herd by saving them from islands! Works on Mobile. Weeklong solo jam in Godot.
+
+- **GWJ78 - The Forgetful Party** (2025) - [Itch.io](https://dimble.itch.io/gwj-78)
+    - Darkest dungeon inspired game. Weeklong solo jam in Godot. 
+
 - **GGJ25 - Bubble Castle** (2025) - [Itch.io](https://dimble.itch.io/ggj-2025) | [Code](https://github.com/CGagnier/ggj-2025) 
     - Weekend jam with a group of friends. Worked pretty much everything except art and sounds. Made in Godot.
 - **GWJ77 - The Froggy Apothecary** (2025) - [Itch.io](https://dimble.itch.io/gwj-77)
